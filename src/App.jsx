@@ -6,7 +6,6 @@ import Hero from "./components/Hero";
 import NavBar from "./components/NavBar";
 import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
-import Test from "./components/test";
 
 function App() {
   return (
@@ -24,7 +23,6 @@ function App() {
         <Projects />
         <Experience />
         <Footer />
-        <Test />
       </div>
     </main>
   );
